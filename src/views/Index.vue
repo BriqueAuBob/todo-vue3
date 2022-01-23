@@ -81,6 +81,7 @@
 
 <style>
 .vue3-emojipicker .-top-4 {
-    top: 31rem;
+    top: 31rem !important;
+    z-index: 999;
 }
 </style>
